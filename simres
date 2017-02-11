@@ -1,0 +1,62 @@
+Failed --- Ran out of time
+Number of packets pending transmission at time up           3
+Packet           1 (0x00000001) pending at time up returns on 22 packetptr 00000
+
+  packet header expected
+  qd  0  1  2  3
+   0 0a0 00f 000 0b9
+   1 000 001 0e4 0ca
+   2 06b 0b7 0bb 048
+   3 04c 0e2 0ed 0cb
+   4 089 07b 027 00f
+   5 0ac 09b 0d4 091
+   6 003 01f 024 08d
+   7 099 00b 003 0fe
+   8 000 016 000 000
+   9 000 016 000 002
+  10 000 00c 000 018
+  11 000 010 000 013
+  12 000 006 000 002
+  13 000 01c 0ff 0ff
+  14 07a 0b5 0a8 083
+
+Packet           2 (0x00000002) pending at time up returns on  3 packetptr 000f5
+
+  packet header expected
+  qd  0  1  2  3
+   0 0a0 011 000 067
+   1 000 002 09b 0fa
+   2 01b 0c8 086 028
+   3 0e6 09c 06c 0e2
+   4 05a 053 0db 044
+   5 0e4 067 01b 02a
+   6 0ae 015 038 02f
+   7 0a5 00f 003 0b0
+   8 000 015 000 00e
+   9 000 003 000 008
+  10 000 009 000 013
+  11 000 006 000 016
+  12 000 00d 000 01e
+  13 000 018 000 012
+  14 000 00f 000 010
+  15 000 005 0ff 0ff
+  16 088 0ca 0ea 03e
+
+Packet           3 (0x00000003) pending at time up returns on 28 packetptr 001a0
+
+  packet header expected
+  qd  0  1  2  3
+   0 0a0 00d 000 0d7
+   1 000 003 0ff 0d7
+   2 047 02c 0e0 091
+   3 0ed 0bb 079 061
+   4 05b 095 014 025
+   5 0b7 0fa 0bd 079
+   6 0f1 0e4 043 0bb
+   7 0b2 008 001 06a
+   8 000 01c 000 00b
+   9 000 00d 000 002
+  10 000 001 000 009
+  11 000 018 000 007
+  12 0b4 074 0a1 00a
+

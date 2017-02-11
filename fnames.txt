@@ -1,0 +1,7 @@
+sroute.v
+receiver.v
+arbiter.v
+crc.v
+fifo.v
+mem_ctrl.v
+end

@@ -1,0 +1,4 @@
+Starting the run of the project cycle time 4
+iverilog Simulation run on Mon Dec 12 20:34:53 PST 2016
+010808616 on coe-ee-cad44.sjsuad.sjsu.edu
+icarus Verilog finished
